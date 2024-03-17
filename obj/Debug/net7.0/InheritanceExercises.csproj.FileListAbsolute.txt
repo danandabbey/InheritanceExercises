@@ -1,0 +1,15 @@
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.csproj.AssemblyReference.cache
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.AssemblyInfoInputs.cache
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.AssemblyInfo.cs
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.csproj.CoreCompileInputs.cache
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/bin/Debug/net7.0/InheritanceExercises
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/bin/Debug/net7.0/InheritanceExercises.deps.json
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/bin/Debug/net7.0/InheritanceExercises.runtimeconfig.json
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/bin/Debug/net7.0/InheritanceExercises.dll
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/bin/Debug/net7.0/InheritanceExercises.pdb
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.dll
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/refint/InheritanceExercises.dll
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.pdb
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/InheritanceExercises.genruntimeconfig.cache
+/home/daniel/RiderProjects/InheritanceExercises/InheritanceExercises/obj/Debug/net7.0/ref/InheritanceExercises.dll
